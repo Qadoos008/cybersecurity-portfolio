@@ -1,4 +1,4 @@
-# Qadoos Tariq
+# Qadoos Tariq Bhat
 
 Bachelor of Computer Science (Hons.) in Cybersecurity
 

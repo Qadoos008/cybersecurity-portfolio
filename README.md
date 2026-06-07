@@ -4,7 +4,7 @@ Bachelor of Computer Science (Hons.) in Cybersecurity
 
 ## About Me
 
-I am a cybersecurity student with hands-on experience in SIEM engineering, detection engineering, incident response, XDR, SOAR, and cloud security. This portfolio showcases practical projects involving Splunk Enterprise, Wazuh XDR, AWS security monitoring, threat detection, security automation, and cloud compliance.
+I am a cybersecurity enthusiast with hands-on experience in SIEM engineering, detection engineering, incident response, XDR, SOAR, and cloud security. This portfolio showcases practical projects involving Splunk Enterprise, Wazuh XDR, AWS security monitoring, threat detection, security automation, and cloud compliance.
 
 ## Core Skills
 
